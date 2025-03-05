@@ -3,6 +3,9 @@
 ## 📌 Introduction
 This system utilizes PID (**Proportional-Integral-Derivative**) control to balance an object on a dynamic platform. A smartphone camera tracks the object’s position in real time and sends data to a microcontroller via **UART** for servo motor adjustments.
 
+<img src="demo1.gif" alt="Top View" width="500"> 
+
+
 📷 **Camera → Image Processing → PID Error Calculation → Servo Control**
 
 ## 🚀 Key Features
