@@ -51,7 +51,7 @@ ser = serial.Serial('COM7', baudrate=115200, timeout=0)
 
 ### 4️⃣ Run the main program
 ```bash
-python main.py
+python PID.py
 ```
 
 ### 5️⃣ Adjust PID parameters using shortcut keys
