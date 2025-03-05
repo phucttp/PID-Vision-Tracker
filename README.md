@@ -164,12 +164,16 @@ void processData() {
 
 ## 📸 Hình Ảnh & Video
 📌 Ảnh hệ thống:
-![Image](image2.jpg)
-![Image](image3.jpg)  
-📌 Thêm video demo quá trình cân bằng PID  
-- ![Image](Demo2.gif)
+![Image1](image2.jpg)
+![Image2](image3.jpg)  
+📌 Video chạy hệ thống
+- Cho phép điều chỉnh vị trí cân bằng thông qua bàn phím
+- ![Image3](Demo2.gif)
+- Hiệu suất cân bằng ấn tượng
+- ![Image4](demo3.gif)
+  
 ---
 
 ## 📜 Giấy Phép
-Dự án được cấp phép theo **MIT License**.
+Dự án mã nguồn mở 
 
