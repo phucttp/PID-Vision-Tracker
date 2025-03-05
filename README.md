@@ -9,11 +9,13 @@ This system utilizes PID (**Proportional-Integral-Derivative**) control to balan
 📷 **Camera → Image Processing → PID Error Calculation → Servo Control**
 
 ## 🚀 Key Features
+
 ✅ Real-time object tracking using **OpenCV**.  
 ✅ Flexible **PID** control for quick system stabilization.  
 ✅ **UART** connection with a **microcontroller** for instant response.  
 ✅ **Manual PID Tuning** – fine-tune each parameter for optimal performance.  
 🔹 Note: The machine learning model is only used to verify whether the object is balanced. The system's control is entirely handled by the PID algorithm.
+
 ---
 
 ## 🛠️ System Requirements
