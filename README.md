@@ -21,7 +21,6 @@ Camera điện thoại thông minh được dùng để theo dõi vị trí vậ
 - **Camera điện thoại thông minh** để theo dõi vật thể (ưu tiên kết nối có dây để giảm độ trễ).
 - **Vi điều khiển** (ESP32, Arduino, STM32, ...) kết nối qua **UART**.
 - **Động cơ servo** để điều chỉnh mặt phẳng cân bằng.
-- **Ảnh thực tế**:
 
 ### 💻 Phần Mềm
 Cài đặt các thư viện cần thiết trên **Python**:
