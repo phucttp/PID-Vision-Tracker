@@ -171,7 +171,8 @@ void processData() {
 - ![Image3](Demo2.gif)
 - Hiệu suất cân bằng ấn tượng
 - ![Image4](demo3.gif)
-  
+- Cải tiến thêm - Sẽ cập nhật mã nguồn trong tương lai: cho phép thay đổi vị trí setpoint bằng nhấp chuột
+- ![Image4](demo4.gif)
 ---
 
 ## 📜 Giấy Phép
