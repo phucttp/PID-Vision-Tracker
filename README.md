@@ -15,7 +15,6 @@ Camera điện thoại thông minh được dùng để theo dõi vị trí vậ
 ---
 
 ## 🛠️ Yêu Cầu Hệ Thống
-
 ### 🔌 Phần Cứng
 - **Máy tính chạy Windows 10**. (vì phần mềm phát triển chủ yếu trên window 10)
 - **Camera điện thoại thông minh** để theo dõi vật thể (ưu tiên kết nối có dây để giảm độ trễ).
@@ -32,7 +31,6 @@ pip install opencv-python numpy matplotlib joblib pyserial
 ---
 
 ## 🎮 Cách Sử Dụng
-
 ### 1️⃣ Kết nối camera điện thoại với máy tính
 Sử dụng **IVCam** (Android) hoặc **DroidCam** để truyền video.
 
