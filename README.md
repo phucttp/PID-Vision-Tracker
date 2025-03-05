@@ -17,10 +17,11 @@ Camera điện thoại thông minh được dùng để theo dõi vị trí vậ
 ## 🛠️ Yêu Cầu Hệ Thống
 
 ### 🔌 Phần Cứng
-- **Máy tính chạy Windows 10**.
+- **Máy tính chạy Windows 10**. (vì phần mềm phát triển chủ yếu trên window 10)
 - **Camera điện thoại thông minh** để theo dõi vật thể (ưu tiên kết nối có dây để giảm độ trễ).
 - **Vi điều khiển** (ESP32, Arduino, STM32, ...) kết nối qua **UART**.
 - **Động cơ servo** để điều chỉnh mặt phẳng cân bằng.
+- **Ảnh thực tế**:
 
 ### 💻 Phần Mềm
 Cài đặt các thư viện cần thiết trên **Python**:
@@ -162,9 +163,11 @@ void processData() {
 ---
 
 ## 📸 Hình Ảnh & Video
-📌 Thêm ảnh chụp màn hình hệ thống tại đây  
+📌 Ảnh hệ thống:
+![Image](image2.jpg)
+![Image](image3.jpg)  
 📌 Thêm video demo quá trình cân bằng PID  
-
+- ![Image](Demo2.gif)
 ---
 
 ## 📜 Giấy Phép
